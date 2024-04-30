@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Akshith, a Full stack developer with a passion for building interactive and dynamic web applications. I started using GitHub to share my works with the largest tech community and work on projects with other developers.<br><br>My primary area of interest is backend and database development using various technologies, Primarily I use Python-Django, MySQL, JavaScript & React and recently I have picked up huge interest on Web development using MVT architecture of Django.<br><br>Even though I haven't yet contributed significantly to any GitHub open-source projects, I'm excited to learn more and do so in the future.  My objective is to learn more advanced level of programming and upskill my technology in order to deliver more efficient solutions.</p>
+<p align="left">Hi, I'm Akshith, a Full stack developer with a passion for building interactive and dynamic web applications. I started using GitHub to share my works with the largest tech community and work on projects with other developers.<br><br>My primary area of interest is backend and database development using various technologies, Primarily I use Python-Django, MySQL, JavaScript & React and recently I have picked up huge interest on Web development using MVT architecture of Django.<br><br>Even though I have not yet contributed significantly to any GitHub open-source projects, I'm excited to learn more and do so in the future.  My objective is to learn more advanced level of programming and upskill my technology in order to deliver more efficient solutions.</p>
 
 ###
 
